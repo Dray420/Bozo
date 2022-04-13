@@ -1,2 +1,6 @@
-# Ste
-Ste stands for simple text editor but its not actually a simple text editor ste is full of features that almost all modern text editor's have ste also has lots of uncommon features so that you can customize ste to your liking
+# Bozo
+![Bozo](https://media.discordapp.net/attachments/912388327603322911/963718657018585098/bozo.jpg?width=1109&height=150)
+A text editor, programmed in python
+
+### Features
+
