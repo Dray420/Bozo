@@ -1,7 +1,3 @@
-# Bozo
-![Bozo](https://media.discordapp.net/attachments/912388327603322911/963718657018585098/bozo.jpg?width=1109&height=150)
-A text editor, programmed in `python`
-
-### Features
-- Coming soon
+# Bozo text editor
+**Bozo is a terminal based text editor made with python designed so that you edit the source code when you're customizing it and that makes for endless posibilities. **
 
