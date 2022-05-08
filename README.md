@@ -37,7 +37,10 @@ cd NAME OF THE DIRECTORY YOU JUST CLONED
 chmod a+x bozo
 sudo cp bozo bozo_util /usr/local/bin
 ```
-- Instruction 3
+- Now you should be able to run it by typing whats shown below
+```bash
+bozo somefile.txt
+```
 
 ## Status
 
