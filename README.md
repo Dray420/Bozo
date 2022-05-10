@@ -59,6 +59,6 @@ folder1/
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [Gpl licence](LICENCE).
+Code and documentation copyright 2011-2018 the authors. Code released under the [Gpl license](LICENSE).
 
 Enjoy :metal:
