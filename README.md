@@ -46,7 +46,7 @@ Bozo is made for you to implement your own features but there comes some feature
 > ctrl-j - delete line\
 > ctrl-t - go to the top\
 > ctrl-y - go to the bottom\
-> ctrl-f - move to a specific line
+> ctrl-f - move to a specific line\
 > ctrl-h  - Syntax highlighting on/off
 
 ## Copyright and license
