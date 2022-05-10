@@ -14,12 +14,7 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
 
@@ -43,22 +38,19 @@ bozo somefile.txt
 ```
 
 ## What's included
+Bozo is made for you to implement your own features but there comes some features by default
 
-Some text
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+> arrows - move cursor in  a direction\
+> ctrl-x - clean exit\
+> ctrl-w - write the changes to the file\
+> ctrl-j - delete line\
+> ctrl-t - go to the top\
+> ctrl-y - go to the bottom\
+> ctrl-f - move to a specific line
+> ctrl-h  - Syntax highlighting on/off
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [Gpl license](LICENSE).
+Code released under the [Gpl license](LICENSE).
 
-Enjoy :metal:
+Enjoy 💻
