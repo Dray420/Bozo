@@ -4,9 +4,9 @@
   <p align="center">
     A text editor writen in python for linux and other unix like operating systems
     <br>
-  <img src="https://img.shields.io/github/license/Dray420/Bozo?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/github/stars/Dray420/Bozo?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/Dray420/Bozo?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Proxin666/Bozo?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/github/stars/Proxin666/Bozo?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Proxin666/Bozo?style=for-the-badge">
   </p>
 </p>
 
@@ -24,7 +24,7 @@ To use Bozo you first need to download it and configure it manualy, its very eas
 
 - Start by opening your terminal and clone this repository by typing text show below
 ```bash
-git clone https://github.com/Dray420/Bozo.git
+git clone https://github.com/Proxin666/Bozo.git
 cd NAME OF THE DIRECTORY YOU JUST CLONED
 ```
 - Then you give the program permision to execute and copy the files to /usr/local/bin to make it executable from everywhere on the system by typing the commands shown below
