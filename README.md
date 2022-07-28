@@ -38,7 +38,7 @@ bozo somefile.txt
 ```
 
 ## What's included
-Bozo is made for you to implement your own features but there comes some features by default
+Here are the features that comes with Bozo
 
 > arrows - move cursor in  a direction\
 > ctrl-x - clean exit\
