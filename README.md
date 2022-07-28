@@ -12,6 +12,7 @@
 
 
 ## Table of contents
+# Im Having a little trouble running bozo i dont know why it just exits when i run it and i dont know why and im not going to fix it since im done on this project, im pretty shure that it may happen because one of the libaries used in this text editor had an update and there for it does not run
 
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
